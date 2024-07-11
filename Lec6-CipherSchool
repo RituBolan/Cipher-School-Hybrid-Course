@@ -1,0 +1,14 @@
+Version Control With Git/GitLab
+we learnt the basics of version control with Git, essential for managing code and projects effectively , how to use Git for 
+tracking changes, collaborating with others, and maintaining project history. We also learnt the fundamentals 
+of GitHub and GitLab, platforms that facilitate project sharing and teamwork.
+
+
+Git is distributed control version system with key feautres as snapshot , branches , local & remote repositories 
+commands : git init , git add, git commit , git status and learnt about their uses
+Learnt what is repository and how do we use it?
+Push request and its significance
+
+Gtihub : used to upload repo and colab with other user easily from remote users
+
+GitLab: a open source software for git-repositort manangement with features - issue tracking , ci/cd pipelines , merge requests

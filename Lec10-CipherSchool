@@ -1,0 +1,9 @@
+Lec10-CipherSchool
+In this lecture we learnt about date and manipulations in microsoft excel for advanced excel for data analysis...
+learnt functions and their uses
+> =Date(Y,M,D) : returns value in actual format DD-MM-YYYY
+> =Day(Cell No.) : returns day of month
+> =Edate(Start date , no. of months) :  returns date after the particular from the previous date
+> =Weekday(cell no.): return week of day for given date
+> =Hour(cell no): return hour at given time in cell no
+> =minute(cell no): return minute at given time in cell no

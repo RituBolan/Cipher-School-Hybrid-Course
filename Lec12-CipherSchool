@@ -1,0 +1,16 @@
+In this lecture we learnt about Excel Macros and VBA for Automation
+MAcros :
+-sequences of instruction that automate reptitive tasks 
+-recorded actions that u can playback to automate processes.
+- Running macro once recorded macros can be executed to repeat captured actions
+
+Macro Security : Security setting for enabling/disabling macros in excel.
+
+VBA( Visual Basics for application ) : 
+- programming language integrated to ms applications
+- allows users to write custom code to automate tasks , create user defined
+functions and contol excel's feature programmatically.
+
+VBA editor : integrated development enviorment IDE where u write and edit VBA code.
+Modules : container for VBA code within a workbook.
+Procedures : Subroutines (sub) and function that perform specific tasks.

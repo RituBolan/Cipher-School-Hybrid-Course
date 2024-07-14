@@ -1,0 +1,9 @@
+In this lecture we learnt about what are pivottables , pivotcharts and power query and how to make and use them
+pivottable : allows us to summarise and analyze large datasets by organising and rearrange data
+and provides an interactive way to calculate , aggregate and analyze data
+
+Pivotchart : an extension of pivot table and provides graphical representation of data summarised  and allows for dynamic data
+visualisation.
+
+Power Query : data connection technology that enables us to discover , connect , combine and refine data across source.
+provide easy way to import , clean and transform data before analyzing.
